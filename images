@@ -1,0 +1,7 @@
+| File            | Description                                  | Source or Prompt                                                                  |
+| --------------- | -------------------------------------------- | --------------------------------------------------------------------------------- |
+| `logo.png`      | NovaStake logo                               | `"Futuristic DeFi orb logo with glowing rings, green & purple, dark background"`  |
+| `bnb.png`       | BNB token icon                               | `"Minimal BNB token icon, yellow, glowing style, dark background"`                |
+| `eth.png`       | ETH token icon                               | `"ETH Ethereum token icon, neon gradient, digital style, dark background"`        |
+| `usdt.png`      | USDT token icon                              | `"USDT stablecoin token icon, shiny green-white, simple vector"`                  |
+| `canvas-bg.jpg` | Hero background (blurred gradient with glow) | `"Abstract DeFi dashboard canvas background, glowing blur, dark blue and purple"` |
